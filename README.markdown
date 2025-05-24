@@ -90,7 +90,6 @@ Please ensure your code adheres to the existing style and includes comments wher
 **Adrian Lesniak**
 _C++ Builder Developer & Game Enthusiast_
 
-(You can add a link to your GitHub/LinkedIn profile, e.g., `[Adrian Lesniak](https://github.com/yourusername)`)
 
 ## 📃 License
 
