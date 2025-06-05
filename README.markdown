@@ -9,6 +9,9 @@ _A classic memory game built with C++ Builder VCL, testing your recall with colo
 
 **Memory Spark: The Sequence Challenge** is an engaging VCL application developed in C++ Builder, designed to put your memory to the test! Players are tasked with memorizing and correctly repeating an ever-lengthening sequence of five colored buttons. Each button features a unique image and an associated sound, engaging both visual and auditory senses. For every correctly repeated sequence, the player earns points. The game boasts an intuitive graphical interface, dynamic sound effects, and interactive buttons, ensuring a satisfying gameplay experience.
 
+![Demo GIF](screenshots/1.gif)
+
+
 ## ✨ Key Features
 
 *   🧠 **Memory Training**: Memorize and replicate sequences of five unique, colored buttons.
@@ -22,9 +25,14 @@ _A classic memory game built with C++ Builder VCL, testing your recall with colo
 
 ## 🖼️ Screenshots
 
-**Coming soon!**
+_Showcasing the interface and gameplay._
 
-_In the future, screenshots or a short GIF showcasing the interface and gameplay will be added here._
+<p align="center">
+  <img src="screenshots\1.jpg" width="300"/>
+  <img src="screenshots\3.jpg" width="300"/>
+  <img src="screenshots\4.jpg" width="300"/>
+  <img src="screenshots\5.jpg" width="300"/>
+</p>
 
 ## ⚙️ System Requirements & Assets
 
